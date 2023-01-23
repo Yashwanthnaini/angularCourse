@@ -1,0 +1,15 @@
+
+.bi{
+    font-size: 50px;
+    margin-left: 100px;
+    color: #ccc;
+}
+
+.liked{
+    color: deeppink;
+}
+
+.text{
+    margin-left: 10px;
+    font-size: 50px;
+}
